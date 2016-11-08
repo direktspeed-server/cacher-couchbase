@@ -18,9 +18,9 @@
   "author": "addisonj",
   "license": "BSD",
   "dependencies": {
-    "memcached": "~0.2.2"
+    "memcached": "~2.2.2"
   },
   "devDependencies": {
-    "mocha": "~1.10.0"
+    "mocha": "~3.1.2"
   }
 }
